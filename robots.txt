@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicieyahv.leirobot.com/sitemap.xml
